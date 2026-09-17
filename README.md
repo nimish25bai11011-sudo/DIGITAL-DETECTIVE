@@ -15,7 +15,7 @@ generate a final investigation report.
 
 **Name:** Nimish Yadav  
 **Registration Number:** 25BAI11011  
-**GitHub:** https://github.com/nimish25bai11011-sudo/DIGITAL-DETECTIVE.git
+**GitHub:** https://github.com/nimish25bai11011
 
 ---
 
